@@ -1,6 +1,9 @@
-## Hi there 👋
-
 ![image alt](https://github.com/antonio079/antonio079/blob/main/banner.png?raw=true)
+
+🚀 CFD Engineer | AI & Data Science Enthusiast | Computational Modeling
+
+💡 Apasionado por la simulación numérica, la aerodinámica y la aplicación de inteligencia artificial en ingeniería. Me especializo en dinámica de fluidos computacional, aerodinámica, análisis de datos y ciencia de datos.
+🎯 Actualmente, estoy explorando cómo la IA y el análisis de datos pueden optimizar simulaciones y resolver problemas complejos de ingeniería.
 
 <!--
 **antonio079/antonio079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
