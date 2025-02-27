@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![image alt](https://github.com/antonio079/antonio079/blob/main/banner.png?raw=true)
+
 <!--
 **antonio079/antonio079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
