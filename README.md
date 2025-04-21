@@ -15,7 +15,7 @@
 
 Click the image below to watch the demo video:
 
-[![Watch the video](https://via.placeholder.com/800x450.png?text=Click+to+Watch+Demo)](https://drive.google.com/file/d/19ecsSr_mDssFzttTEgchoIzc0FTlC1jo/view?usp=share_link)
+[![Watch the video](./thumbnail.png)](https://drive.google.com/file/d/19ecsSr_mDssFzttTEgchoIzc0FTlC1jo/view?usp=share_link)
 
 
 <!--
