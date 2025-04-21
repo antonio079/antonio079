@@ -13,10 +13,11 @@
 
 ## 🎬 CV Video
 
-Click the image below to watch the demo video:
+Haz clic en la imagen para ver mi video CV:
 
-[![Watch the video](./thumbnail.png)](https://drive.google.com/file/d/19ecsSr_mDssFzttTEgchoIzc0FTlC1jo/view?usp=share_link)
-
+<a href="https://drive.google.com/file/d/19ecsSr_mDssFzttTEgchoIzc0FTlC1jo/view?usp=share_link">
+  <img src="./thumbnail.png" alt="Video CV" width="400"/>
+</a>
 
 <!--
 **antonio079/antonio079** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
